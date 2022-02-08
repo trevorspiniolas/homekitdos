@@ -1,5 +1,6 @@
 # HomeKit Denial of Service (CVE-2022-22588)
 Patched in iOS 15.2.1 - https://support.apple.com/en-us/HT213043
+
 This application triggers a Denial of Service bug that can result in the loss of functionality of an iOS device, persistent through reboots and triggering again upon logging back into iCloud. [Read more here](https://trevorspiniolas.com/doorlock/doorlock.html)
 
 
